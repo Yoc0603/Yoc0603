@@ -43,6 +43,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoc0603&" alt="yoc0603" /></p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Yoc0603/Yoc0603/blob/output/github-contribution-grid-snake.gif)
 
 
