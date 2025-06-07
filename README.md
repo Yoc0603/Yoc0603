@@ -44,6 +44,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Yoc0603/Yoc0603/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Yoc0603/Yoc0603/output/github-contribution-grid-snake.gif)
+
 
 
