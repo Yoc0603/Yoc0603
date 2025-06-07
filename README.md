@@ -42,7 +42,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoc0603&" alt="yoc0603" /></p>
 
+## 🐍 Contribution Snake
 
-![snake gif](https://Yoc0603.github.io/Yoc0603/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Yoc0603/Yoc0603/output/github-contribution-grid-snake.svg)
 
 
